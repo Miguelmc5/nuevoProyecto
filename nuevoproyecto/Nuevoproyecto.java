@@ -15,6 +15,7 @@ public class Nuevoproyecto {
         System.out.println("esto no sirve para nada");
         System.out.println("esto no sirve para nada x2");
     
+        System.out.println("adios");
     }
     
 }
