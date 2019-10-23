@@ -13,7 +13,7 @@ public class Nuevoproyecto {
         // TODO code application logic here
    
         System.out.println("esto no sirve para nada");
-    
+        System.out.println("esto no sirve para nada x2");
     
     }
     
